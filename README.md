@@ -148,10 +148,6 @@ The result is specifically associated with the **vehicle-data dead-reckoning bas
 ```text
 intelligent-dead-reckoning/
 │
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── LICENSE
 ├── config.py
 │
 ├── data/
@@ -177,7 +173,7 @@ intelligent-dead-reckoning/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sujit-Hiwale/intelligent-dead-reckoning/
 cd intelligent-dead-reckoning
 ```
 
